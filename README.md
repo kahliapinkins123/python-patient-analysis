@@ -1,9 +1,5 @@
 <div id="top"></div>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -58,6 +54,7 @@ This is an analysis of Emergency Room patients focusing on patient volume, patie
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 <div id="method"></div>
+
 <!-- USAGE EXAMPLES -->
 ## Methodology
 
