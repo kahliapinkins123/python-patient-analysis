@@ -27,7 +27,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#method">Usage</a></li>
+    <li><a href="#method">Methodology</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
