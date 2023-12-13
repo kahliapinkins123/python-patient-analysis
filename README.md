@@ -5,6 +5,7 @@
 <div align="center">
 
   <h3 align="center">Emergeny Room Patient Analysis</h3>
+  <img width="985" alt="Capture d’écran 2023-12-13 à 22 29 54" src="https://github.com/kahliapinkins123/python-patient-analysis/assets/87428634/9fa32017-4078-4459-b23a-1648ee092088">
 
   <p align="center">
     This is an analysis and exploration of patient volume, insurance, and demographics using Python and Tableau.
@@ -117,6 +118,14 @@ Here's my methodolgy for analyzing and reporting the Emergency Room Patient Data
     </ol>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="dashboards"></div>
+
+<!-- USAGE EXAMPLES -->
+## Dashboards
+
+
+
 
 <div id="contact"></div>
 <!-- CONTACT -->
