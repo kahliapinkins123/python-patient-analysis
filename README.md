@@ -5,7 +5,6 @@
 <div align="center">
 
   <h3 align="center">Emergeny Room Patient Analysis</h3>
-  <img width="985" alt="Capture d’écran 2023-12-13 à 22 29 54" src="https://github.com/kahliapinkins123/python-patient-analysis/assets/87428634/9fa32017-4078-4459-b23a-1648ee092088">
 
   <p align="center">
     This is an analysis and exploration of patient volume, insurance, and demographics using Python and Tableau.
@@ -14,6 +13,7 @@
     <br />
     <br />
     <a href="https://www.youtube.com/watch?v=0ZbWsWCOsOk">Project Portfolio Page</a>
+    
     
     
 </div>
@@ -29,6 +29,7 @@
       </ul>
     </li>
     <li><a href="#method">Methodology</a></li>
+    <li><a href="#dashboards">Dashboards</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -123,6 +124,28 @@ Here's my methodolgy for analyzing and reporting the Emergency Room Patient Data
 
 <!-- USAGE EXAMPLES -->
 ## Dashboards
+<h3>Volume</h3>
+<img width="996" alt="Capture d’écran 2023-12-13 à 22 29 41" src="https://github.com/kahliapinkins123/python-patient-analysis/assets/87428634/9e2f303f-6dcb-44eb-ac0d-cc076fb268b8">
+</br>
+</br>
+</br>
+<h3>Location</h3>
+<img width="985" alt="Capture d’écran 2023-12-13 à 22 29 54" src="https://github.com/kahliapinkins123/python-patient-analysis/assets/87428634/d3ab382d-7044-4c5c-9970-ac2f7a40ee30">
+</br>
+</br>
+</br>
+<h3>Insurance</h3>
+<img width="988" alt="Capture d’écran 2023-12-13 à 22 30 06" src="https://github.com/kahliapinkins123/python-patient-analysis/assets/87428634/b25f370f-f351-4534-b5bf-c2af9fce26cd">
+</br>
+</br>
+</br>
+<h3>Race</h3>
+<img width="988" alt="Capture d’écran 2023-12-13 à 22 30 19" src="https://github.com/kahliapinkins123/python-patient-analysis/assets/87428634/2fc55c65-64b1-4c26-a504-1970fbf2aca4">
+</br>
+</br>
+</br>
+<h3>Ethnicity</h3>
+<img width="988" alt="Capture d’écran 2023-12-13 à 22 30 32" src="https://github.com/kahliapinkins123/python-patient-analysis/assets/87428634/a4310983-cd6e-4997-80f0-04d6636155e2">
 
 
 
