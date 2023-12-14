@@ -12,7 +12,7 @@
     <a href="https://public.tableau.com/app/profile/kahlia.pinkins/viz/ERPatientAnalysis/PatientStory"><strong>Presentation & Dashboards »</strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/watch?v=0ZbWsWCOsOk">Project Portfolio Page</a>
+    <a href="https://kahliapinkins123.wixsite.com/kahliapinkins/about-3-1">Project Portfolio Page</a>
     
     
     
